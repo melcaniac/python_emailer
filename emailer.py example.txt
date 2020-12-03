@@ -1,0 +1,1 @@
+python emailer.py -g mail-b2.rdc.l -f eoc@peopleclick.com -t matt@peopleclick.com -s mail-b2.rdc.l-test -d mail-b2.rdc.l-test
